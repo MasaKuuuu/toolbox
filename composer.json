@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "9.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Toolbox\\" : "src/sudoku",
+            "Toolbox\\Sudoku\\Classes\\" : "src/sudoku/classes",
+            "Toolbox\\Sudoku\\Interfaces\\" : "src/sudoku/interfaces"
+        }
+    }
+}
