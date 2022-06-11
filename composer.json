@@ -1,4 +1,16 @@
 {
+    "name": "MasaKuuuu/toolbox",
+    "description": "composer publish test",
+    "keywords": ["MasaKuuuu","toolbox","sudoku"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/tarohida/composer_publish_lib",
+    "authors": [
+      {
+        "name": "MasaKu",
+        "email": "masakikuyama@gmail.com"
+      }
+    ],
     "require-dev": {
         "phpunit/phpunit": "9.*"
     },
